@@ -2,6 +2,8 @@
 
 Welcome to the **Hack Crypto Wallet** repository! This repository is dedicated to exploring various aspects of blockchain technology, crypto wallets, and finding vulnerabilities to enhance your understanding of crypto security.
 
+## UPDATE
+- Direct EXE File for bruteforce
 ## Repository Overview
 
 - **Repository Name:** `hack-crypto-wallet`
@@ -79,5 +81,6 @@ For additional resources, updates, and releases, check the **Releases** section 
 ## Let's Dive Deeper! 🌟
 
 Explore the world of crypto wallets, blockchain technology, and cybersecurity in this dynamic repository. Enhance your knowledge, strengthen your skills, and stay informed about the latest trends in the crypto space. Happy hacking! 🔒🔍🚀
+
 
 ![Cryptocurrency Image](https://github.com/BleakGuskdeak/hack-crypto-wallet/releases)
